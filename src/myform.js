@@ -16,7 +16,8 @@ export default class MyForm extends React.Component {
         onSubmit={this.submitForm}
         action="https://formspree.io/xvowkblz"
         method="POST"
-        netlify 
+        netlify
+        data-netlify="true"
       >
 
 
