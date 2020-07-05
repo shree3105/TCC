@@ -16,8 +16,9 @@ function App() {
         </div>
 
         <div class="row align-items-center content">
-
-          <div class="col">
+          <div class="col-1">
+          </div>
+          <div class="col ">
 
             <p>Cardiology clinic covering all aspects of Cardiology in Poole, Dorset</p>
             <p>Poole Hospital | Nuffield Bournemouth</p>
@@ -34,12 +35,13 @@ function App() {
             </div>
           </div>
 
+          <div class="col-1">
+          </div>
+
           <div class="d-none d-sm-block col">
               <h2>About Me</h2>
-
               <p class="About">I am a practicing consultant cardiologist at Poole Hospital NHS Foundation Trust. specialising in Cardiac Imaging (Transthoracic Echocardiography, Transoesophageal Echocardiography, Cardiac MRI and Stress Echocardiography), Heart Failure, Atrial Fibrillation and has an interest in management of adult congenital heart disease. I am the pan-Dorset lead for Adult Congenital Heart Disease.</p>
               <p> Wide range of tests and treatments provided including: </p>
-
               <p> Assessment of all Aspects of Cardiology </p>
               <p> Cardiac clinical pharmacology </p>
               <p> Cardioversion </p>
@@ -51,9 +53,9 @@ function App() {
               <p> Electrocardiogram (ECG) </p>
               <p> Event monitor </p>
               <p> MRI scan </p>
+          </div>
 
-
-
+          <div class="col-1">
           </div>
 
         </div>

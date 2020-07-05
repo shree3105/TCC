@@ -29,7 +29,7 @@ html { font-size: 1rem; }
 }
 
 .content {
-  height:80vh;
+  height:70vh;
   color: white;
 
 }
@@ -37,16 +37,7 @@ html { font-size: 1rem; }
   margin-top: -5px;
 }
 
-.nav {
 
-
-}
-.footer {
-
-
-  font-size: 8px
-
-}
 
 
 .footer p {
