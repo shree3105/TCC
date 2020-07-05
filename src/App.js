@@ -61,8 +61,8 @@ function App() {
         <div class="footer ">
           <div class="container">
 
-            <a href="https://finder.bupa.co.uk/Consultant/view/226316/dr_sujata_khambekar" target="_blank"><img src="bupalogo3.png"/></a>
-            <a href="https://www.nuffieldhealth.com/consultants/dr-sujata-khambekar" target="_blank"><img src="nuffieldlogo3.png"/></a>
+            <a href="https://finder.bupa.co.uk/Consultant/view/226316/dr_sujata_khambekar" ><img src="bupalogo3.png" alt="Bupa"/></a>
+            <a href="https://www.nuffieldhealth.com/consultants/dr-sujata-khambekar" ><img src="nuffieldlogo3.png"  alt="nuffield"/></a>
 
             <p>The entirety of this site is protected by copyright © 2019–2020 The Cardiology Clinic.</p>
           </div>
