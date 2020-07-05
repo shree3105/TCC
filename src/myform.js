@@ -18,6 +18,7 @@ export default class MyForm extends React.Component {
         method="POST"
         netlify
         data-netlify="true"
+        name="contact"
       >
 
 
