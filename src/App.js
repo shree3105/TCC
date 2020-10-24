@@ -29,7 +29,7 @@ function App() {
             <div class="forms">
               <h5>Contact us</h5>
               <p><strong>Email</strong> appointments@thecardiology.clinic</p>
-              <p><strong>Telephone</strong> 01202 448255</p>
+              <p><strong>Telephone</strong> 0300 0198255</p>
               <h6>Self refer</h6>
               <MyForm/>
             </div>
