@@ -38,7 +38,7 @@ function App() {
           <div class="col-1">
           </div>
 
-          <div class="d-none d-sm-block col pt-5">
+          <div class="d-none d-md-block col pt-5">
               <h2>About Me</h2>
               <p class="About">Dr. Khambekar has been a consultant for last the 10 years. She has graduated from Bombay University and completed her postgraduation (MD-Medicine) from the same University. She completed her specialist training in Cardiology in various tertiary centers in the United Kingdom- Leicester, Nottingham, Southampton and Manchester. She has special interest in Cardiac imaging – echocardiography, Stress echo and Cardiac MR. She conducts rapid access AF clinic and also offers services in rapid access Heart Failure clinic. She leads the Adult Congenital Heart disease service in University Hospitals Dorset.</p>
               <p> <b>Areas of Interest: </b></p>
