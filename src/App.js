@@ -67,9 +67,14 @@ function App() {
 
         <div class="footer ">
           <div class="container pt-5">
-
-            <a href="https://finder.bupa.co.uk/Consultant/view/226316/dr_sujata_khambekar" ><img src="bupalogo3.png" alt="Bupa"/></a>
-            <a href="https://www.nuffieldhealth.com/consultants/dr-sujata-khambekar" ><img src="nuffieldlogo3.png"  alt="nuffield"/></a>
+            <a href="https://www.aviva.co.uk/health/health-products/health-insurance/" ><img src="AVIVA-logo.jpg" alt="AVIVA"/></a>
+            <a href="https://www.axahealth.co.uk/" ><img src="AXA-logo.jpg" alt="AXA"/></a>
+            <a href="https://www.cigna.co.uk/" ><img src="Cigna_logo.webp" alt="Cigna"/></a>
+            <a href="https://healixhealthservices.co.uk/" ><img src="healix-logo.jpg" alt="healix"/></a>
+            <a href="https://www.simplyhealth.co.uk/" ><img src="simplyhealth-logo.webp" alt="simplyhealth"/></a>
+            <a href="https://www.vitality.co.uk/" ><img src="Vitality-logo.jpg" alt="Vitality"/></a>
+            <a href="https://www.wpa.org.uk/" ><img src="WPA-logo.webp" alt="WPA"/></a>
+            <a href="https://finder.bupa.co.uk/Consultant/view/226316/dr_sujata_khambekar" ><img src="Bupa-logo.webp" alt="Bupa"/></a>
 
             <p>The entirety of this site is protected by copyright © 2019–2022 The Cardiology Clinic.</p>
           </div>

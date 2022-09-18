@@ -9,8 +9,8 @@
 }
 
 img {
-  max-width:15vw;
-  max-height:15vh;
+  max-width:5vw;
+  max-height:5vh;
 }
 
 .face img {
@@ -38,7 +38,7 @@ html { font-size: 1vh; }
 
 .footer  {
 
-  padding: 40px;
+  padding: 50px;
   font-size: 8px
 
 }
