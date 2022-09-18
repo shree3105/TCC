@@ -17,27 +17,22 @@ function App() {
 
         <div class="row align-items-center content ">
           <div class="col-1">
-
           </div>
 
           <div class="col ">
-
             <div class="container-md p-5">
-              <img src="Photo.jpg" alt="Sujata" class="img-fluid"/>
+              <div class="face">
+                <img src="Photo.jpg" alt="Sujata" class="rounded mx-auto d-block"/>
+              </div>
             </div>
             <p>Dr Sujata Khambekar MBBS, MD (Med), DNB, FRCP</p>
             <p>Cardiologist in Poole and Bournemouth.</p>
             <p>Poole Hospital | Nuffield Bournemouth</p>
-
             <p>Partnered with all major insurance providers</p>
-
             <div class="forms">
-
               <h6>Self refer</h6>
               <MyForm/>
             </div>
-
-
           </div>
 
           <div class="col-1">

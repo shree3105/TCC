@@ -2,30 +2,44 @@
   text-align: center;
   height: 100vh;
   background-image: url("images/header-background.jpg");
-  background-size:     cover;                      /* <------ */
+  background-size:     auto;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center;
     color:white
 }
 
+img {
+  max-width:15%;
+  max-height:15%;
+}
+
+.face img {
+  max-width:75%;
+  max-height:75%;
+}
+
 html { font-size: 1rem; }
 @media (min-width: 320px) {
-    html { font-size: 0.7rem; }
+    html { font-size: 0.4rem; }
 }
 @media (min-width: 360px) {
-    html { font-size: 0.75rem; }
+    html { font-size: 0.6rem; }
 }
 @media (min-width: 576px) {
-    html { font-size: 1rem; }
+    html { font-size: 0.6rem; }
 }
 @media (min-width: 768px) {
-    html { font-size: 1rem; }
+    html { font-size: 0.6rem; }
 }
 @media (min-width: 992px) {
-    html { font-size: 1.25rem; }
+    html { font-size: 0.8rem; }
 }
 @media (min-width: 1200px) {
-    html { font-size: 1rem; }
+    html { font-size: 0.8rem; }
+    .face img {
+      max-width:50%;
+      max-height:50%;
+    }
 }
 
 .content {
@@ -57,10 +71,7 @@ a {
   padding-right: 20px;
 
 }
-img {
-  max-width:15%;
-  max-height:15%;
-}
+
 
 
 a:hover {
