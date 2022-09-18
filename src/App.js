@@ -25,10 +25,10 @@ function App() {
             <div class="container-md p-5">
               <img src="Photo.jpg" alt="Sujata" class="img-fluid"/>
             </div>
-
-            <p>Cardiology clinic covering all aspects of Cardiology in Poole, Dorset</p>
+            <p>Dr Sujata Khambekar MBBS, MD (Med), DNB, FRCP</p>
+            <p>Cardiologist in Poole and Bournemouth.</p>
             <p>Poole Hospital | Nuffield Bournemouth</p>
-            <p>Dr Sujata Khambekar MBBS, MD(Medicine), DNB, FRCP(UK)</p>
+
             <p>Partnered with all major insurance providers</p>
 
             <div class="forms">
@@ -45,19 +45,18 @@ function App() {
 
           <div class="d-none d-sm-block col pt-5">
               <h2>About Me</h2>
-              <p class="About">I am a practicing consultant cardiologist at Poole Hospital NHS Foundation Trust. specialising in Cardiac Imaging (Transthoracic Echocardiography, Transoesophageal Echocardiography, Cardiac MRI and Stress Echocardiography), Heart Failure, Atrial Fibrillation and has an interest in management of adult congenital heart disease. I am the pan-Dorset lead for Adult Congenital Heart Disease.</p>
-              <p> Wide range of tests and treatments provided including: </p>
-              <p> Assessment of all Aspects of Cardiology </p>
-              <p> Cardiac clinical pharmacology </p>
-              <p> Cardioversion </p>
-              <p> Transthoracic echocardiogram </p>
-              <p> Ambulatory blood pressure monitoring </p>
-              <p> Angiography </p>
-              <p> Cardiovascular risk profile </p>
-              <p> Echocardiogram </p>
-              <p> Electrocardiogram (ECG) </p>
-              <p> Event monitor </p>
-              <p> MRI scan </p>
+              <p class="About">Dr. Khambekar has been a consultant for last the 10 years. She has graduated from Bombay University and completed her postgraduation (MD-Medicine) from the same University. She completed her specialist training in Cardiology in various tertiary centers in the United Kingdom- Leicester, Nottingham, Southampton and Manchester. She has special interest in Cardiac imaging – echocardiography, Stress echo and Cardiac MR. She conducts rapid access AF clinic and also offers services in rapid access Heart Failure clinic. She leads the Adult Congenital Heart disease service in University Hospitals Dorset.</p>
+              <p> <b>Areas of Interest: </b></p>
+              <p> Coronary artery disease and Angina </p>
+              <p> Atrial fibrillation </p>
+              <p> Palpitations </p>
+              <p> Heart Failure </p>
+              <p> Adult congenital heart disease</p>
+              <p> <b>Cardiac Imaging:  </b></p>
+              <p> MRI </p>
+              <p> Stress echo </p>
+              <p> Echocardiography </p>
+
 
               <h5>Contact us</h5>
               <p><strong>Email</strong> appointments@thecardiology.clinic</p>
