@@ -18,9 +18,9 @@ img {
   max-height:30vh;
 }
 
-html { font-size: 1.2vh; }
+html { font-size: 1.4vh; }
 @media (max-height: 850px) {
-    html { font-size: 1.4vh; }
+    html { font-size: 1.6vh; }
 }
 
 
@@ -38,7 +38,7 @@ html { font-size: 1.2vh; }
 
 .footer  {
 
-  padding: 50px;
+  padding-top: 15vh;
   font-size: 8px
 
 }
@@ -46,7 +46,7 @@ html { font-size: 1.2vh; }
 
 .footer p {
 
-  padding: 10px;
+
   font-size: 8px
 
 }
