@@ -54,7 +54,7 @@ function App() {
 
               <h5>Contact us</h5>
               <p><strong>Email</strong> appointments@thecardiology.clinic</p>
-              <p><strong>Telephone</strong> 0300 0198255</p>
+              <p><strong>Telephone</strong> 0776 151 3391</p>
           </div>
 
           <div class="col-1">
