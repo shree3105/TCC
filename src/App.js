@@ -66,7 +66,7 @@ function App() {
             
               <div class="col-lg-8 pb-5  d-none d-md-none d-lg-block">               
               
-                <iframe id="05fz5k62" class="doctify-widget" src="https://www.doctify.com/wv2/average-carousel-rating-widget?containerId=05fz5k62&dotsArrowsColor=4C5870&language=en&profileType=specialist&slugs=dr-sujata-khambekar&tenantId=athena-uk&theme=darkNavy&widgetName=average-carousel-rating-widget"  frameborder="0" scrolling="no" name="average-carousel-rating-widget">Browser doesn't support frames</iframe>
+                <iframe title="large widget" id="05fz5k62" class="doctify-widget" src="https://www.doctify.com/wv2/average-carousel-rating-widget?containerId=05fz5k62&dotsArrowsColor=4C5870&language=en&profileType=specialist&slugs=dr-sujata-khambekar&tenantId=athena-uk&theme=darkNavy&widgetName=average-carousel-rating-widget"  frameborder="0" scrolling="no" name="average-carousel-rating-widget">Browser doesn't support frames</iframe>
                 <script type="text/javascript" src="https://www.doctify.com/wv2/doctify-widget-autoresize-plugin.js?tenantId=athena-uk&widgetName=average-carousel-rating-widget&containerId=05fz5k62"></script>            
             
               </div>
