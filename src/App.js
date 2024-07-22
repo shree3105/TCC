@@ -10,11 +10,11 @@ function App() {
       <div class="container-fluid">
 
         <div class="nav">
-          <div class="col pt-5">
+          <div class="col pt-3">
             <h1>The Cardiology Clinic</h1>
           </div>
         </div>
-
+    
         <div class="row align-items-center content ">
           <div class="col-1">
           </div>
@@ -40,7 +40,7 @@ function App() {
 
           <div class="col-lg-4 content2">
               <h2>About Me</h2>
-              <p class="About">Dr. Khambekar has been a consultant for last the 10 years. She has graduated from Bombay University and completed her postgraduation (MD-Medicine) from the same University. She completed her specialist training in Cardiology in various tertiary centers in the United Kingdom- Leicester, Nottingham, Southampton and Manchester. She has special interest in Cardiac imaging – echocardiography, Stress echo and Cardiac MR. She conducts rapid access AF clinic and also offers services in rapid access Heart Failure clinic. She leads the Adult Congenital Heart disease service in University Hospitals Dorset.</p>
+              <p class="About">Dr. Khambekar has been a consultant for last the 10 years. She graduated from Bombay University and completed her postgraduation (MD-Medicine) from the same University. She completed her specialist training in Cardiology in various tertiary centers in the United Kingdom- Leicester, Nottingham, Southampton and Manchester. She has special interest in Cardiac imaging – echocardiography, Stress echo and Cardiac MR. She conducts rapid access AF clinic and also offers services in rapid access Heart Failure clinic. She leads the Adult Congenital Heart disease service in University Hospitals Dorset.</p>
               <p> <b>Areas of Interest: </b></p>
               <p> Coronary artery disease and Angina </p>
               <p> Atrial fibrillation </p>
@@ -58,13 +58,28 @@ function App() {
           </div>
 
           <div class="col-1">
+          
           </div>
+        </div>
+
+        <div class="row justify-content-center pt-2 pb-5 ">
+            
+              <div class="col-lg-8 pb-5  d-none d-md-none d-lg-block">               
+              
+                <iframe id="05fz5k62" class="doctify-widget" src="https://www.doctify.com/wv2/average-carousel-rating-widget?containerId=05fz5k62&dotsArrowsColor=4C5870&language=en&profileType=specialist&slugs=dr-sujata-khambekar&tenantId=athena-uk&theme=darkNavy&widgetName=average-carousel-rating-widget"  frameborder="0" scrolling="no" name="average-carousel-rating-widget">Browser doesn't support frames</iframe>
+                <script type="text/javascript" src="https://www.doctify.com/wv2/doctify-widget-autoresize-plugin.js?tenantId=athena-uk&widgetName=average-carousel-rating-widget&containerId=05fz5k62"></script>            
+            
+              </div>
+            
         </div>
 
 
 
-        <div class="footer ">
-          <div class="container pt-5">
+        
+
+        <div class="footer pb-3 ">
+          <div class="container2 " >
+            
             <a href="https://www.aviva.co.uk/health/health-products/health-insurance/" ><img src="AVIVA-logo.jpg" alt="AVIVA"/></a>
             <a href="https://www.axahealth.co.uk/" ><img src="AXA-logo.jpg" alt="AXA"/></a>
             <a href="https://www.cigna.co.uk/" ><img src="Cigna_logo.webp" alt="Cigna"/></a>
@@ -74,7 +89,7 @@ function App() {
             <a href="https://www.wpa.org.uk/" ><img src="WPA-logo.webp" alt="WPA"/></a>
             <a href="https://finder.bupa.co.uk/Consultant/view/226316/dr_sujata_khambekar" ><img src="Bupa-logo.webp" alt="Bupa"/></a>
 
-            <p>The entirety of this site is protected by copyright © 2019–2022 The Cardiology Clinic.</p>
+            <p>The entirety of this site is protected by copyright © 2019–2024 The Cardiology Clinic.</p>
           </div>
         </div>
       </div>

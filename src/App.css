@@ -14,13 +14,14 @@ img {
 }
 
 .face img {
-  max-width:30vw;
-  max-height:30vh;
+  max-width:20vw;
+  max-height:20vh;
 }
 
-html { font-size: 1.5vh; }
+html { font-size: 1.2vh; }
 @media (max-height: 576px) {
     html { font-size: 1.8vh; }
+    
 }
 
 
@@ -43,23 +44,40 @@ html { font-size: 1.5vh; }
   padding-right: 20px;
 
 }
+.content3 {
+
+  color: black;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+
+}
 
 .content p {
   margin-top: -5px;
 
 }
 
+
+
+iframe {
+  height: 15vw;
+  width: 60vW;
+  position: relative; 
+}
+
 .footer  {
 
-
+  
   font-size: 8px
-
+  
 }
 
 
 .footer p {
 
-  padding-top: 10px;
+  padding-top: 30px;
   font-size: 8px
 
 }
